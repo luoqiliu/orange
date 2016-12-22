@@ -1,3 +1,5 @@
 *.iml
 /targrt
 *.class
+.DS_Store
+/.idea
